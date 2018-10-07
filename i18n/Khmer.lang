@@ -1,0 +1,30 @@
+/**
+ * Khmer translation
+ *  @name Khmer
+ *  @anchor Khmer
+ *  @author Voneat Pen , <a href="https://www.facebook.com/Junior.frogie">Voneat Pen</a>
+ */
+
+{
+    "sEmptyTable":     "មិនមានទិន្នន័យ",
+    "sInfo":           "បង្ហាញ _START_ ដល់ _END_ នៃ _TOTAL_ សរុប",
+    "sInfoEmpty":      "បង្ហាញ 0 ដល់ 0 នៃ 0 សរុប",
+    "sInfoFiltered":   "(ស្វែងរក _MAX_ ទិន្នន័យសរុប)",
+    "sInfoPostFix":    "",
+    "sInfoThousands":  ",",
+    "sLengthMenu":     "បង្ហាញ _MENU_ សរុប",
+    "sLoadingRecords": "កំពុងដំណើរការ...",
+    "sProcessing":     "កំពុងដំណើរការ...",
+    "sSearch":         "ស្វែងរក: ",
+    "sZeroRecords":    "គ្មានកំណត់ត្រា",
+    "oPaginate": {
+        "sFirst":    "ដំបូង",
+	    "sPrevious": "បកក្រោយ",
+        "sNext":     "បន្ទាប់",
+	    "sLast":     "ចុងក្រោយ"
+    },
+    "oAria": {
+        "sSortAscending":  ": តម្រៀបពីតូចទៅធំ",
+	    "sSortDescending": ": តម្រៀបពីធំទៅតូច"
+    }
+}
